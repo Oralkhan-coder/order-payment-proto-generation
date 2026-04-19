@@ -1,0 +1,1 @@
+option go_package = "github.com/Oralkhan-coder/order-payment-proto-generation.git/payment/v1;paymentv1";
