@@ -45,7 +45,7 @@ jobs:
         run: |
           cd out
           cat > go.mod << 'EOF'
-          module github.com/Oralkhan-coder/order-payment-proto-generation.git
+          module github.com/Oralkhan-coder/order-payment-proto-generation
 
           go 1.21
 
